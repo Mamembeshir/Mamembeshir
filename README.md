@@ -73,7 +73,7 @@ A Java-based food ordering system with PostgreSQL, JavaFX UI, and Spring.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mamembeshir&show_icons=true&theme=tokyonight" height="165" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mamembeshir&theme=tokyonight" height="165" />
 </p>
 
